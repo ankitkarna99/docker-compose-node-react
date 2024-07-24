@@ -1,0 +1,15 @@
+{
+  "name": "node-app",
+  "type": "module",
+  "volta": {
+    "node": "20.14.0",
+    "yarn": "1.22.11"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
